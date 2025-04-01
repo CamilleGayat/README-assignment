@@ -64,7 +64,7 @@ OpenOffice.org is free for use by everybody. For further details, see the licens
 
 OpenOffice.org is built with a focus on cross-platform compatibility and open standards.
 
-[![C++][Cpp.org]][Cpp-url]
+* C++
 * Java
 * XML
 * Open Document Format (ODF)

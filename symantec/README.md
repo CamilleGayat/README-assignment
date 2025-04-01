@@ -66,9 +66,9 @@ This project adheres to all licensing requirements for both Symantec components 
 This project is built with the following major components:
 
 * 🔐 Symantec Security Components
-[![Boost][Boost.org]][Boost-url]
-[![TinyXML][TinyXML.org]][TinyXML-url]
-[![C++][Cpp.org]][Cpp-url]
+* [![Boost][Boost.org]][Boost-url]
+* [![TinyXML][TinyXML.org]][TinyXML-url]
+* [![C++][Cpp.org]][Cpp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
